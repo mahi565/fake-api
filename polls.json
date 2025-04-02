@@ -1,0 +1,126 @@
+[
+    {
+        "id": "db2a169d-c9d8-4401-97a4-d273a8878d41",
+        "question": "Which of these OTT you use ?",
+        "options": [
+            {
+                "option": "Amazon Prime",
+                "votes": 0
+            },
+            {
+                "option": "Disney Hotstar",
+                "votes": 0
+            },
+            {
+                "option": "HBO Max",
+                "votes": 0
+            },
+            {
+                "option": "Netflix",
+                "votes": 0
+            },
+            {
+                "option": "All",
+                "votes": 0
+            }
+        ]
+    },
+    {
+        "id": "fdf38338-be88-4352-8ee8-ebb8f777aeec",
+        "question": "Do you think Bharat Jodo Yatra will help revive Congress's fortunes?",
+        "options": [
+            {
+                "option": "Yes",
+                "votes": 0
+            },
+            {
+                "option": "No",
+                "votes": 0
+            },
+            {
+                "option": "Can't say",
+                "votes": 0
+            }
+        ]
+    },
+    {
+        "id": "140c978f-31bd-49a3-8a58-1d3ef8a8f388",
+        "question": "Whom do you see the next PM for India in upcoming election 2024?",
+        "options": [
+            {
+                "option": "Narendra Modi",
+                "votes": 0
+            },
+            {
+                "option": "Rahul Gandhi",
+                "votes": 0
+            },
+            {
+                "option": "Arvind Kejriwal",
+                "votes": 0
+            },
+            {
+                "option": "Nitish Kumar",
+                "votes": 0
+            }
+        ]
+    },
+    {
+        "id": "d0800590-5bad-447d-b97a-5848c40a1c7a",
+        "question": "What is the real name of Captain America?",
+        "options": [
+            {
+                "option": "Steve Johns",
+                "votes": 0
+            },
+            {
+                "option": "Steve Harper",
+                "votes": 0
+            },
+            {
+                "option": "Steve Rogers",
+                "votes": 0
+            },
+            {
+                "option": "Captain Rogers",
+                "votes": 0
+            }
+        ]
+    },
+    {
+        "id": "2320e9db-c996-4e99-8827-1eb35956acad",
+        "question": "Black Adam is a ?",
+        "options": [
+            {
+                "option": "Hero",
+                "votes": 0
+            },
+            {
+                "option": "Villain",
+                "votes": 0
+            }
+        ]
+    },
+    {
+        "id": "ab7f2dc5-e1e4-44e0-b5a0-3d37f470f1ba",
+        "question": "Choose odd one out of these?",
+        "options": [
+            {
+                "option": "Hot Dog",
+                "votes": 0
+            },
+            {
+                "option": "Burger",
+                "votes": 0
+            },
+            {
+                "option": "Momos",
+                "votes": 0
+            },
+            {
+                "option": "Chicken",
+                "votes": 0
+            }
+        ]
+    }
+]
